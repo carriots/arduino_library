@@ -3,7 +3,7 @@
 
 String dataString = "";
 EthernetClient client;
-IPAddress server(82,223,244,60);
+IPAddress server(51,137,97,16);
 
 /**
     Sends an HTTP request to the Carriots system after constructing a JSON
